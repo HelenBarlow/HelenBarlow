@@ -1,6 +1,6 @@
 Hi, I'm Helen!
 
-I'm currently doing my masters in data science, looking to pivot careers. At the moment I'm enjoying building my programming skills and having fun exploring visualation options available in different languages. There's nothing very technical here yet - I plan on adding some more statistically meaty stuff in the coming weeks.
+I'm currently doing my masters in data science, looking to pivot careers. At the moment I'm enjoying building my programming skills and having fun exploring visualisation options available in different languages. There's nothing very technical here yet - I plan on adding some more statistically meaty stuff in the coming weeks.
 
 <!--
 **HelenBarlow/HelenBarlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
